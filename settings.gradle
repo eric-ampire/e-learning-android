@@ -1,0 +1,2 @@
+rootProject.name='e-learning-android'
+include ':app'
